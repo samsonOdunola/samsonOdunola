@@ -33,10 +33,10 @@ In his free time you will find him engaging in outdoor activities like biking, f
 <p></p>
 
 <h2 align="left">Some statics... becuase, why not?</h2>
-<!-- [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=santiagobedoa&&theme=xcode)](https://github.com/santiagobedoa) -->
+<!-- [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=samsonOdunola&&theme=xcode)](https://github.com/samsonOdunola) -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santiagobedoa&&theme=tokyonight" alt="santiagobedoa" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samsonOdunola&&theme=tokyonight" alt="samsonOdunola" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santiagobedoa&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="santiagobedoa" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samsonOdunola&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="samsonOdunola" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santiagobedoa&show_icons=true&locale=en&theme=tokyonight" alt="santiagobedoa" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samsonOdunola&show_icons=true&locale=en&theme=tokyonight" alt="samsonOdunola" /></p>
