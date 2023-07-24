@@ -1,4 +1,4 @@
-![plot](./images/header_gif.gif)
+![](https://github.com/samsonOdunola/header_gif.gif)
 <h1 align="center">Hi 👋, I'm Samson</h1>
 <h3 align="center"><b>A backend developer and Software Engineer</b></h3>
 <p></p>
