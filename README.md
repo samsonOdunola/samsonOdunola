@@ -1,6 +1,6 @@
 ![plot](/header_gif.gif)
 <h1 align="center">Hi 👋, I'm Samson</h1>
-<h3 align="center"><b>A backend developer and Software Engineer</b></h3>
+<h3 align="center"><b>Backend developer | Software Engineer | MERN Developer</b></h3>
 <p></p>
 
 Samson is a Software Engineer with a passion for creating unique and authentic software solutions using modern tools. He is an avid learner who is always up for a challenge.
